@@ -53,3 +53,16 @@ pygmentscodefencesguesssyntax = true
   icon = "fa fa-facebook fa-2x"
   weight = 3
   url = "https://facebook.com/derek.cochran/"
+
+[[menu.main]]
+  name = "Posts"
+  weight = 1
+  url  = "posts/"
+[[menu.main]]
+  name = "Categories"
+  weight = 2
+  url  = "categories/"
+[[menu.main]]
+  name = "Tags"
+  weight = 2
+  url  = "tags/"
