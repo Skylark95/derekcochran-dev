@@ -5,8 +5,10 @@ title = "Alexa Skill Demo (Week 1)"
 description = "Alexa Skill Demo for Normal Community High School State Farm STEM Program"
 tags = ["Java", "Lambda", "AWS"]
 categories = ["STEM", "Alexa"]
-series = ["alexa-skill-demo"]
+series = ["Alexa Skill Demo"]
 +++
+This is part of a the Alexa Skill Demo series for Normal Community High School State Farm STEM Program.
+To view the steps in the next session click [here]({{< relref "alexa-skill-demo-2.md" >}}).
 
 ## Creating The Skill Function in AWS Lambda
 1. Log in to the AWS Management Console and navigate to AWS Lambda by searching for it in the search bar.\

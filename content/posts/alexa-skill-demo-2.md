@@ -5,12 +5,11 @@ title = "Alexa Skill Demo (Week 2)"
 description = "Alexa Skill Demo for Normal Community High School State Farm STEM Program"
 tags = ["Java", "Lambda", "AWS"]
 categories = ["STEM", "Alexa"]
-series = ["alexa-skill-demo"]
+series = ["Alexa Skill Demo"]
 +++
 
-# Alexa Skill Demo
-
-To view the steps from last session click [here](https://github.com/Skylark95/alexa-skill-demo/blob/2022-03-18/README.md)
+This is part of a the Alexa Skill Demo series for Normal Community High School State Farm STEM Program.
+To view the steps from last session click [here]({{< relref "alexa-skill-demo.md" >}}).
 
 ## Add an Alexa Skills Kit trigger
 1. Log in to the AWS Management Console and navigate to AWS Lambda\
@@ -30,7 +29,7 @@ To view the steps from last session click [here](https://github.com/Skylark95/al
 
 6. Enter your Skill ID in the Skill ID edit box.
 
-7. Click **Add**.
+7. Click **Add**.\
 ![alexa skills kit trigger](https://raw.githubusercontent.com/Skylark95/alexa-skill-demo/main/img/alexa-skills-kit.png)
 
 8. Go to the **Function ARN** Google Sheet and enter **yes** next to your group under the **Skill ID Added to Lambda**.
