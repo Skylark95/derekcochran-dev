@@ -3,7 +3,7 @@ draft = false
 date = 2022-03-18T12:00:00-05:00
 title = "Alexa Skill Demo (Week 1)"
 description = "Alexa Skill Demo for Normal Community High School State Farm STEM Program"
-tags = ["Java"]
+tags = ["Java", "Lambda", "AWS"]
 categories = ["STEM", "Alexa"]
 series = ["alexa-skill-demo"]
 +++
