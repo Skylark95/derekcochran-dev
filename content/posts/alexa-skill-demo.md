@@ -35,25 +35,25 @@ To view the steps in the next session click [here]({{< relref "alexa-skill-demo-
 
 10. Under **Runtime Settings** on the function page click **Edit**\
 ![edit runtime](https://raw.githubusercontent.com/Skylark95/alexa-skill-demo/main/img/edit_runtime.png)
-10. Fill in the Handler information with fully qualified class name of your stream handler class (in our example this value will be `com.amazon.ask.helloworld.HelloWorldStreamHandler`)\
+11. Fill in the Handler information with fully qualified class name of your stream handler class (in our example this value will be `com.amazon.ask.helloworld.HelloWorldStreamHandler`)\
 ![runtime settings](https://raw.githubusercontent.com/Skylark95/alexa-skill-demo/main/img/runtime_settings.png)
 
 ## Clone Repository
-11. Open Visual Studio Code click the **Source Control** Button.\
+12. Open Visual Studio Code click the **Source Control** Button.\
 ![source control button](https://raw.githubusercontent.com/Skylark95/alexa-skill-demo/main/img/source_control.png)
 
-12. Click Clone repository. In the text prompt provide the url: https://github.com/Skylark95/alexa-skill-demo.git\
+13. Click Clone repository. In the text prompt provide the url: https://github.com/Skylark95/alexa-skill-demo.git\
 ![clone repository](https://raw.githubusercontent.com/Skylark95/alexa-skill-demo/main/img/clone_repository.png)
 
 ## Build The Skill Code
-13. Open the Visual Studio Code _Command Pallete_ (`Ctrl` + `Shift` + `P`) and select _Tasks: Run Build Task_ to build a jar file for your skill. The jar file will be output to the project directory with the name _alexa-skill-demo.jar_\
+14. Open the Visual Studio Code _Command Pallete_ (`Ctrl` + `Shift` + `P`) and select _Tasks: Run Build Task_ to build a jar file for your skill. The jar file will be output to the project directory with the name _alexa-skill-demo.jar_\
 ![run build task](https://raw.githubusercontent.com/Skylark95/alexa-skill-demo/main/img/run_build_task.png)
 
 ## Upload the Jar File to your Function
-14. Upload the JAR file produced in the previous step under Function code.\
+15. Upload the JAR file produced in the previous step under Function code.\
 ![upload jar](https://raw.githubusercontent.com/Skylark95/alexa-skill-demo/main/img/upload_jar.png)
 
-17. Congratulations! You're done for this session!
+16. Congratulations! You're done for this session!
 
 ## Resources
 - https://developer.amazon.com/en-US/docs/alexa/alexa-skills-kit-sdk-for-java/develop-your-first-skill.html

@@ -38,7 +38,7 @@ To view the steps from last session click [here]({{< relref "alexa-skill-demo.md
 9. Open Visual Studio Code click the **Source Control** Button.\
 ![source control button](https://raw.githubusercontent.com/Skylark95/alexa-skill-demo/main/img/source_control.png)
 
-10. Click Clone repository. In the text prompt provide the url: https://github.com/Skylark95/alexa-skill-demo.git\
+10. Click Clone repository. In the text prompt provide the url: https://github.com/Skylark95/alexa-skill-demo.git \
 ![clone repository](https://raw.githubusercontent.com/Skylark95/alexa-skill-demo/main/img/clone_repository.png)
 
 ## Edit the Skill Code
@@ -51,14 +51,14 @@ To view the steps from last session click [here]({{< relref "alexa-skill-demo.md
 13. Edit the `speechText` in the `handle` method to say something unique for your group. Get creative. Don't just keep the standard `"Hello World"`, this will be what makes your skill unique for your group. Be sure to save the file when you are done.
 
 ## Build The Skill Code
-13. Open the Visual Studio Code _Command Pallete_ (`Ctrl` + `Shift` + `P`) and select _Tasks: Run Build Task_ to build a jar file for your skill. The jar file will be output to the project directory with the name _alexa-skill-demo.jar_\
+14. Open the Visual Studio Code _Command Pallete_ (`Ctrl` + `Shift` + `P`) and select _Tasks: Run Build Task_ to build a jar file for your skill. The jar file will be output to the project directory with the name _alexa-skill-demo.jar_\
 ![run build task](https://raw.githubusercontent.com/Skylark95/alexa-skill-demo/main/img/run_build_task.png)
 
 ## Upload the Jar File to your Function
-16. Upload the JAR file produced in the previous step under Function code.\
+15. Upload the JAR file produced in the previous step under Function code.\
 ![upload jar](https://raw.githubusercontent.com/Skylark95/alexa-skill-demo/main/img/upload_jar.png)
 
-17. Your code is now deployed. See a mentor and let's run your new Alexa Skill!
+16. Your code is now deployed. See a mentor and let's run your new Alexa Skill!
 
 ## Bonus
 There is much more you can do. Below is a link to Amazon's documentation on Alexa skills. Check it out and see what else you can do!
