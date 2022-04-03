@@ -15,7 +15,7 @@ pygmentscodefencesguesssyntax = true
   info = "Software Engineer"
   description = "Derek Cochran's personal website"
   keywords = "blog,developer,personal"
-  avatarurl = "images/avatar.jpg"
+  avatarurl = "images/avatar.webp"
   #gravatar = "john.doe@example.com"
 
   favicon_32 = "/img/favicon-32x32.png"
