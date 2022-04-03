@@ -58,11 +58,11 @@ pygmentscodefencesguesssyntax = true
   name = "Posts"
   weight = 1
   url  = "posts/"
-[[menu.main]]
-  name = "Categories"
-  weight = 2
-  url  = "categories/"
-[[menu.main]]
-  name = "Tags"
-  weight = 2
-  url  = "tags/"
+# [[menu.main]]
+#   name = "Categories"
+#   weight = 2
+#   url  = "categories/"
+# [[menu.main]]
+#   name = "Tags"
+#   weight = 2
+#   url  = "tags/"
